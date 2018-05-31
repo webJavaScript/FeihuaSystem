@@ -1,0 +1,12 @@
+.fh-navigator {
+    width: 238px;
+    height: 100%;
+    overflow: hidden;
+    overflow-y: auto;
+    background-color: #3b3b3b;
+}
+.fh-nav,
+.fh-nav .fh-nav-item ul {
+    background-color: #3b3b3b;
+    color: #ffffff;
+}

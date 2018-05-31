@@ -1,0 +1,55 @@
+.fh-page.fh-page-dinner {
+
+}
+.fh-page.fh-page-dinner .fh-dinner-title {
+    height: 4em;
+    line-height: 4;
+    font-size: .14em;
+    color: #ffffff;
+    background-color: #3b3b3b;
+    padding: 0;
+}
+
+.fh-page.fh-page-dinner .fh-dinner-btn {
+    display: flex;
+    justify-content: flex-start;
+    margin: 1em 0;
+    font-size: .14em;
+}
+
+.fh-page.fh-page-dinner .dinner-limit {
+    height: 2em;
+    line-height: 2em;
+    margin-left: 1em;
+}
+
+.fh-page.fh-page-dinner .fh-dinner-list-content {
+    padding: 1em;
+    font-size: .14em;
+    background-color: #ffffff;
+}
+.fh-page.fh-page-dinner .fh-dinner-list-content .fh-dinner-list-title,
+.fh-page.fh-page-dinner .fh-dinner-list-content .fh-dinner-list-list,
+.fh-page.fh-page-dinner .fh-dinner-list-content .fh-dinner-list-state {
+    height: 4em;
+    line-height: 4;
+    background-color: #ffffff;
+    font-size: .14em;
+}
+
+.fh-page.fh-page-dinner .fh-dinner-list-content .fh-dinner-list-state,
+.fh-page.fh-page-dinner .fh-dinner-list-content .fh-dinner-list-list:nth-child(2n+1) {
+    background-color: #f3f3f3;
+}
+
+.fh-page.fh-page-dinner .fh-dinner-user-content {
+    font-size: .14em;
+    line-height: 2;
+    margin-bottom: 1em;
+    padding: 1em;
+    background-color: #ffffff;
+}
+.fh-page.fh-page-dinner .fh-dinner-user-content span {
+    display: inline-block;
+    margin-right: 1em;
+}

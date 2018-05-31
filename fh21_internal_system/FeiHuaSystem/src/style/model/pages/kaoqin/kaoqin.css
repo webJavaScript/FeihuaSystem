@@ -1,0 +1,37 @@
+.page-header-kaoqin-tools {
+    float: right;
+}
+.page-header-kaoqin-tools .kaoqin-tools-query {
+    margin-left: 1em;
+}
+.fh-page .page-header-kaoqin-tools {
+    float: right;
+}
+.fh-page .page-header-kaoqin-tools .kaoqin-tools-query {
+    margin-left: 1em;
+}
+.fh-page .page-kaoqin-content {
+    background-color: #ffffff;
+    text-align: left;
+    min-height: 4em;
+}
+.fh-page .page-kaoqin-title.page-kaoqin-content-title {
+    background-color: #ffffff;
+    color: #3b3b3b;
+}
+.fh-page .page-kaoqin-content-content {
+    height: 21em;
+    font-size: .14em;
+    padding: 0 1em 1em;
+}
+.fh-page .page-kaoqin-content-content .kaoqin-item {
+    padding: 1em 0;
+    border-top: 1px solid #3b3b3b;
+}
+.fh-page .page-kaoqin-content-content .ant-row {
+    height: 3em;
+    line-height: 3em;
+}
+.fh-page .page-kaoqin-content-content .ant-row:nth-child(2n+1) {
+    background-color: #f3f3f3;
+}

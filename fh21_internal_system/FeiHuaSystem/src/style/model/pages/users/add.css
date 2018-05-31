@@ -1,0 +1,34 @@
+.fh-page.fh-page-adduser {
+
+}
+.fh-page.fh-page-adduser .fh-adduser-form-layout {
+    background-color: #ffffff;
+}
+.fh-page.fh-page-adduser .fh-adduser-title {
+    height: 4em;
+    line-height: 4;
+    background-color: #3b3b3b;
+    font-size: .14em;
+    color: #ffffff;
+    padding: 0 1em;
+}
+.fh-page.fh-page-adduser .fh-adduser-email,
+.fh-page.fh-page-adduser .fh-adduser-kaoqinji-id,
+.fh-page.fh-page-adduser .fh-adduser-kaoqinji-name,
+.fh-page.fh-page-adduser .fh-adduser-department,
+.fh-page.fh-page-adduser .fh-adduser-phone,
+.fh-page.fh-page-adduser .fh-adduser-submit {
+    display: flex;
+    justify-content: space-around;
+    margin: 1em 0 3em;
+}
+.fh-page.fh-page-adduser .fh-adduser-email span.fh-adduser-form-name,
+.fh-page.fh-page-adduser .fh-adduser-kaoqinji-id span.fh-adduser-form-name,
+.fh-page.fh-page-adduser .fh-adduser-kaoqinji-name span.fh-adduser-form-name,
+.fh-page.fh-page-adduser .fh-adduser-department span.fh-adduser-form-name,
+.fh-page.fh-page-adduser .fh-adduser-phone span.fh-adduser-form-name {
+    display: inline-block;
+    width: 7em;
+    margin-right: 1em;
+    text-align: left;
+}

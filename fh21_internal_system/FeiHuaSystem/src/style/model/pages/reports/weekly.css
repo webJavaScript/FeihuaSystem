@@ -1,0 +1,48 @@
+.fh-page.fh-page-weeklyreports .reports-weekly-send {
+    float: right;
+}
+.fh-page.fh-page-weeklyreports .fh-email-title {
+    font-size: .14em;
+    padding: 1em;
+    border: 1px solid #cccccc;
+    background-color: #f9f9f9;
+
+}
+
+.fh-page.fh-page-weeklyreports .fh-email-content {
+    font-size: .14em;
+    min-height: 40em;
+    padding: 1em;
+    border: 1px solid #cccccc;
+    background-color: #ffffff;
+    border-top: none;
+}
+
+.fh-page.fh-page-weeklyreports .fh-email-content .fh-email-add {
+    margin-top: 1em;
+}
+
+.fh-page.fh-page-weeklyreports .fh-weekly-input-box{
+    display: inline-block;
+    min-width: 60em;
+    max-width: 100em;
+    min-height: 4em;
+    /* border: 1px solid #cccccc;
+    background-color: #ffffff;
+    padding: .5em 1em;
+    border-radius: 4px; */
+}
+
+.fh-page.fh-page-weeklyreports .fh-weekly-input {
+    font-size: .14em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.fh-page.fh-page-weeklyreports .fh-weekly-input .fh-weekly-input-name {
+    display: inline-block;
+    width: 5em;
+}
+.fh-page.fh-page-weeklyreports .fh-weekly-input .fh-weekly-autocomplet {
+    width: 18em;
+}

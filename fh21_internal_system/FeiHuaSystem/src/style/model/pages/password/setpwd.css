@@ -1,0 +1,23 @@
+.fh-page.fh-page-setpassword {
+
+}
+
+.fh-page.fh-page-setpassword .fh-setpassword-title {
+    height: 4em;
+    line-height: 4;
+    font-size: .14em;
+    background-color: #3b3b3b;
+    color: #ffffff;
+    padding: 0;
+}
+.fh-page.fh-page-setpassword .fh-setpassword-form .fh-setpassword-item {
+    display: flex;
+    justify-content: center;
+    margin: 1em 0 2em;
+}
+.fh-page.fh-page-setpassword .fh-setpassword-form span.fh-setpassword-item-name {
+    display: inline-block;
+    width: 7em;
+    text-align: left;
+    margin-right: 1em;
+}

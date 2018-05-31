@@ -1,0 +1,37 @@
+.login-dialog {
+    width: 100vw;
+    height: 100vh;
+    background-color: #3b3b3b;
+    color: #ffffff;
+    font-size: 100px;
+    padding: 0 .1em;
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.login-dialog > h2 {
+    font-size: .3em;
+    color: #ffffff;
+    text-align: center;
+    /* padding-top: 4em; */
+}
+.login-dialog .login-form {
+    max-width: 300px;
+    margin: 1em auto;
+}
+.login-dialog .login-form .ant-checkbox-wrapper {
+    color: #ffffff;
+}
+.login-dialog .login-form .login-form-button {
+    width: 300px;
+}
+
+#components-form-demo-normal-login .login-form-forgot {
+    float: right;
+}
+
+#components-form-demo-normal-login .login-form-button {
+    width: 100%;
+}
